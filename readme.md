@@ -22,7 +22,9 @@ TOPNGは、mass_angohによって開発されたフリーウェアのアプリ�
 
 ## ファイル構造
 ├── topng.exe
+
 ├── banner.png
+
 ├── readme.md
 
 ## インストール方法
